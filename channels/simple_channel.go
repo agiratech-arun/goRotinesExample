@@ -1,6 +1,6 @@
 // simple smaple
 
-package simple_channel
+package channels
 
 import ("fmt"
         // "time"

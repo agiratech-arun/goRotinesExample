@@ -1,3 +1,13 @@
+// simple smaple
+
 package main
 
-func main() {}
+import ("fmt"
+        "github.com/agiratech-arun/goRotinesExample/simple_channel"
+       )
+
+
+func main() {
+  simple_channel.example
+}
+

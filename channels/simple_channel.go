@@ -7,7 +7,7 @@ import ("fmt"
        )
 
 
-func example() {
+func Example() {
   c := make(chan int)
   value := 5
   go gorotine(value,"gorotine",c)

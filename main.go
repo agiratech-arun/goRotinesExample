@@ -2,12 +2,12 @@
 
 package main
 
-import ("fmt"
+import (_"fmt"
         "github.com/agiratech-arun/goRotinesExample/channels"
        )
 
 
 func main() {
-  channels.example
+  channels.Example()
 }
 
